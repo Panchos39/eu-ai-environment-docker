@@ -1,2 +1,1 @@
-# eu-ai-environment-docker
-Docker container for eu-ai-api
+# vr-ml-docker
